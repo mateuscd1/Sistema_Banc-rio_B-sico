@@ -1,7 +1,7 @@
 
 # Projeto Sistema Bancário Básico em Python
 
-Projeto é um sistema de gerenciamento de Banco utilizando a linguagem Python, nele usamos ferramentas básicas de funções com intuito de aprimorar os conhecimentos gerados apartir da aulas online ecertificação no curso Python,
+Projeto é um sistema de gerenciamento de Banco utilizando a linguagem Python, nele usamos ferramentas básicas de funções com intuito de aprimorar os conhecimentos gerados apartir das aulas online de certificação no curso Python,
 
 
 ## 🚀 Sobre mim
