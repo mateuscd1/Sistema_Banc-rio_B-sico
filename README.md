@@ -5,7 +5,7 @@ Projeto é um sistema de gerenciamento de Banco utilizando a linguagem Python, n
 
 
 ## 🚀 Sobre mim
-Me chamo Mateus, tenho 21 anos, atualmente graduando em Engenharia de Computação pela Universidade Estadual do Maranhão (UEMA). Gosto muito de jogos de fps, e muita vontade para aprender progamação voltada ao backend.
+Me chamo Mateus, tenho 21 anos, atualmente graduando em Engenharia de Computação pela Universidade Estadual do Maranhão (UEMA). Gosto muito de jogos de fps, e tenho muita disposição para progamação voltada ao backend.
 
 
 ## Habilidades
@@ -13,11 +13,8 @@ Me chamo Mateus, tenho 21 anos, atualmente graduando em Engenharia de Computaç�
 Atualmente com nível intermediário nas linguagens Python e C, e nível básico em Java.
 ## Outras seções comuns em perfis do GitHub
 
-👩‍💻 Trabalho atualmente nos Laboratório de Análise e Processamentos de Sinais (LAPS) na Universidade Estadual do Maranhão (UEMA)
+👩‍💻 Trabalho atualmente no Laboratório de pesquisa de Análise e Processamentos de Sinais (LAPS) na Universidade Estadual do Maranhão (UEMA)
 
-🧠 Estou aprendendo Java/POO
-
-
-🤔 Procuro ajuda com Java
+🧠 Atualmente estou aprendendo Java/POO.
 
 
